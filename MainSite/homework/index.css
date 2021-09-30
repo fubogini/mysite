@@ -31,3 +31,6 @@ section{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=0 ); /* IE6-9 */
 
 }
+#no{
+display: none;
+}
